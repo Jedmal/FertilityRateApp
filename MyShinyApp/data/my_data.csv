@@ -1,0 +1,256 @@
+Country,Fertility_rate
+Afghanistan,4.6434
+Africa (UN),4.305
+Albania,1.3897
+Algeria,2.8886
+American Samoa,2.2741
+Andorra,1.1254
+Angola,5.3044
+Anguilla,1.273
+Antigua and Barbuda,1.5798
+Argentina,1.8854
+Armenia,1.575
+Aruba,1.1803
+Asia (UN),1.9414
+Australia,1.5962
+Austria,1.4701
+Azerbaijan,1.6638
+Bahamas,1.3889
+Bahrain,1.811
+Bangladesh,1.981
+Barbados,1.6327
+Belarus,1.483
+Belgium,1.5831
+Belize,2.0104
+Benin,4.9731
+Bermuda,1.3631
+Bhutan,1.4132
+Bolivia,2.6178
+Bonaire Sint Eustatius and Saba,1.6581
+Bosnia and Herzegovina,1.3498000000000001
+Botswana,2.7914
+Brazil,1.6406
+British Virgin Islands,1.0052
+Brunei,1.7779
+Bulgaria,1.586
+Burkina Faso,4.7718
+Burundi,5.0779
+Cambodia,2.3438
+Cameroon,4.4633
+Canada,1.4635
+Cape Verde,1.8956
+Cayman Islands,1.2191
+Central African Republic,5.9783
+Chad,6.2549
+Chile,1.5375
+China,1.164
+Colombia,1.7168
+Comoros,3.9777
+Congo,4.1707
+Cook Islands,2.2449
+Costa Rica,1.5335
+Cote d'Ivoire,4.418
+Croatia,1.4518
+Cuba,1.4419
+Curacao,1.6509
+Cyprus,1.3208
+Czechia,1.6986
+Democratic Republic of Congo,6.1564
+Denmark,1.7187
+Djibouti,2.8041
+Dominica,1.5949
+Dominican Republic,2.2727
+East Timor,3.1486
+Ecuador,2.0256
+Egypt,2.9174
+El Salvador,1.8031
+Equatorial Guinea,4.266
+Eritrea,3.8674
+Estonia,1.6761
+Eswatini,2.8395
+Ethiopia,4.1591
+Europe (UN),1.4833
+Falkland Islands,1.5896
+Faroe Islands,2.7751
+Fiji,2.4748
+Finland,1.3891
+France,1.79
+French Guiana,3.5081
+French Polynesia,1.6989
+Gabon,3.491
+Gambia,4.6838
+Georgia,2.0813
+Germany,1.53
+Ghana,3.5633
+Gibraltar,1.8481
+Greece,1.371
+Greenland,1.9758
+Grenada,2.0043
+Guadeloupe,2.0521
+Guam,2.569
+Guatemala,2.3948
+Guernsey,1.4563
+Guinea,4.3987
+Guinea-Bissau,4.0055
+Guyana,2.3972
+Haiti,2.8143
+High-income countries,1.5605
+Honduras,2.363
+Hong Kong,0.7455
+Hungary,1.5782
+Iceland,1.7329
+India,2.0308
+Indonesia,2.1746
+Iran,1.6919
+Iraq,3.4955
+Ireland,1.7678
+Isle of Man,1.5644
+Israel,2.9764
+Italy,1.2825
+Jamaica,1.352
+Japan,1.2974
+Jersey,1.4816
+Jordan,2.8297
+Kazakhstan,3.0836
+Kenya,3.3351
+Kiribati,3.3038
+Kosovo,1.5219
+Kuwait,2.1096
+Kyrgyzstan,2.9912
+Land-locked developing countries (LLDC),3.9621
+Laos,2.4961
+Latin America and the Caribbean (UN),1.8641
+Latvia,1.5827
+Least developed countries,3.9668
+Lebanon,2.0912
+Lesotho,3.0176
+Less developed regions,2.4362
+"Less developed regions, excluding China",2.7243
+"Less developed regions, excluding least developed countries",2.118
+Liberia,4.0885
+Libya,2.4624
+Liechtenstein,1.4946
+Lithuania,1.6222
+Low-income countries,4.6183
+Lower-middle-income countries,2.5892
+Luxembourg,1.3877
+Macao,1.0883
+Madagascar,3.8514
+Malawi,3.9165
+Malaysia,1.803
+Maldives,1.6916
+Mali,5.9564
+Malta,1.1783
+Marshall Islands,2.7288
+Martinique,1.9146
+Mauritania,4.3976
+Mauritius,1.4105
+Mayotte,4.4392
+Mexico,1.8223
+Micronesia (country),2.7114
+Moldova,1.8058
+Monaco,2.1109
+Mongolia,2.8371
+Montenegro,1.6914
+Montserrat,1.5735
+More developed regions,1.5237
+Morocco,2.328
+Mozambique,4.6444
+Myanmar,2.1514
+Namibia,3.3025
+Nauru,3.5187
+Nepal,2.0293
+Netherlands,1.6404
+New Caledonia,2.0252
+New Zealand,1.7733
+Nicaragua,2.3213
+Niger,6.82
+Nigeria,5.2374
+Niue,2.4485
+North Korea,1.809
+North Macedonia,1.3633
+Northern America (UN),1.6431
+Northern Mariana Islands,2.1724
+Norway,1.5034
+Oceania (UN),2.1504
+Oman,2.6233
+Pakistan,3.4698
+Palau,2.409
+Palestine,3.5044
+Panama,2.3252
+Papua New Guinea,3.2147
+Paraguay,2.4689
+Peru,2.1917
+Philippines,2.7476
+Poland,1.4587
+Portugal,1.3631
+Puerto Rico,1.2925
+Qatar,1.8008
+Reunion,2.255
+Romania,1.748
+Russia,1.4927
+Rwanda,3.8207
+Saint Barthelemy,1.0053
+Saint Helena,1.6497
+Saint Kitts and Nevis,1.5307
+Saint Lucia,1.399
+Saint Martin (French part),2.4147
+Saint Pierre and Miquelon,1.5624
+Saint Vincent and the Grenadines,1.7971
+Samoa,3.9301
+San Marino,1.1297
+Sao Tome and Principe,3.8226
+Saudi Arabia,2.4266
+Senegal,4.3871
+Serbia,1.5278
+Seychelles,2.3484
+Sierra Leone,3.9779
+Singapore,1.0243
+Sint Maarten (Dutch part),1.5814
+Slovakia,1.5664
+Slovenia,1.6272
+Small island developing states (SIDS),2.2791
+Solomon Islands,3.9832
+Somalia,6.3123
+South Africa,2.374
+South Korea,0.8799
+South Sudan,4.4692
+Spain,1.2779
+Sri Lanka,1.9899
+Sudan,4.4574
+Suriname,2.3482
+Sweden,1.67
+Switzerland,1.4946
+Syria,2.7468
+Taiwan,1.1144
+Tajikistan,3.1855
+Tanzania,4.7259
+Thailand,1.3305
+Togo,4.2574
+Tokelau,2.707
+Tonga,3.2367
+Trinidad and Tobago,1.6263
+Tunisia,2.0859
+Turkey,1.8892
+Turkmenistan,2.6674
+Turks and Caicos Islands,1.6691
+Tuvalu,3.1635
+Uganda,4.5845
+Ukraine,1.2507
+United Arab Emirates,1.4597
+United Kingdom,1.562
+United States,1.6619
+United States Virgin Islands,2.1282
+Upper-middle-income countries,1.522
+Uruguay,1.4927
+Uzbekistan,2.8565
+Vanuatu,3.7355
+Vatican,1.0077
+Venezuela,2.2108
+Vietnam,1.9437
+Wallis and Futuna,1.9577
+Western Sahara,2.3114
+World,2.3208
+Yemen,3.7948
+Zambia,4.308
+Zimbabwe,3.4908

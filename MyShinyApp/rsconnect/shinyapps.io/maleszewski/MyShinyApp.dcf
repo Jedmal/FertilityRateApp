@@ -1,0 +1,12 @@
+name: MyShinyApp
+title: MyShinyApp
+username: maleszewski
+account: maleszewski
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11575532
+bundleId: 8411714
+url: https://maleszewski.shinyapps.io/MyShinyApp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
